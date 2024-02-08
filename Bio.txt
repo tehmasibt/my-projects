@@ -2,3 +2,4 @@ Ad: Tehmasib
 Soyad: Taghiyev
 Yaş: 19
 Qrup: PB301
+Information: Hi, my name and surname is Taghiyev Tehmasib. I study at the Code Academy
