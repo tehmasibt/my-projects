@@ -1,0 +1,4 @@
+University: Azerbaijan Technical University
+Academy: Code Academy
+Job: It is not
+Data: 02.08.2004
